@@ -65,6 +65,13 @@ It is important to configure your Slack bot correctly for this code to work.
    - Click *Allow*
 
 Yup, that's it we are done!!
+
+### Get Tavily API keys
+
+1. **Sign Up or Log In, Get API Keys**:
+   - Visit [Tavily](https://app.tavily.com/).
+   - If you don't have an account, sign up. Otherwise, log in with your existing credentials.
+   - Copy the API Key and save it in your .env as TAVILY_API_KEY
      
 ### Environment Setup
 
