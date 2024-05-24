@@ -94,7 +94,7 @@ Yup, that's it we are done!!
 2. **Install Dependencies**:
    - Install the required libraries. Run the command:
      ```bash
-     pip install requests langchain_openai langchain_core python-dotenv langchain_community langchainhub
+     pip install requests langchain_openai langchain_core python-dotenv langchain_community langchainhub slack_bolt wikipedia
      ```
 
 3. **Environment Variables**: 
@@ -111,7 +111,7 @@ Yup, that's it we are done!!
 1. **Run the app**:
    - Run the app:
      ```bash
-     python app.py
+     python research_agent.py
      ```
 
 2. **Run agents on Slack**
